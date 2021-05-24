@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageSearchApp</string>
+    <string name="result_could_be_loaded">Result could be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="no_result_for_this_search">No Result for this search</string>
+</resources>
